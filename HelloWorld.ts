@@ -1,1 +1,2 @@
-console.log("Hello World");
+var age: int = "45";
+console.log(age);
